@@ -1,0 +1,10 @@
+.guess {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5px;
+}
+
+.guess-container {
+  padding: 20px;
+}

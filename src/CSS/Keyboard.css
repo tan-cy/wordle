@@ -1,0 +1,11 @@
+.keys {
+  color: white;
+  margin: 3px;
+  border-radius: 3px;
+  border-color: lightgrey;
+  height: 50px;
+  min-width: 30px;
+  border-style: none;
+  font-weight: bold;
+  font-size: large;
+}

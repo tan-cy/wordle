@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  -webkit-text-stroke-width: 0.4px;
+  -webkit-text-stroke-color: grey;
+}
+.correct {
+  background-color: rgba(96, 243, 108, 0.871);
+}
+.almost {
+  background-color: rgba(248, 246, 137, 0.871);
+}
+.wrong {
+  background-color: black;
+}
+.default {
+  background-color: grey;
+}
